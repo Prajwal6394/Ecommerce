@@ -51,7 +51,7 @@ const Contactus = () => {
                     <div className="adressCtn">
 
                         <h3> Address</h3>
-                        <p>Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US</p>
+                        <p>Lucknow</p>
                     </div>
                 </div>
                     <div className="box">
@@ -59,7 +59,7 @@ const Contactus = () => {
                     <div className="adressCtn">
 
                         <h3>Lets Talk</h3>
-                        <p className="infoCtn">0657964665</p>
+                        <p className="infoCtn">7317000000</p>
                     </div>
                 </div>
                 <div className="box">

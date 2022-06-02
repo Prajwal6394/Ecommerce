@@ -1,5 +1,5 @@
 import React from 'react'
-import {FiFacebook, AiOutlineHeart, AiOutlineInstagram, IoLogoYoutube} from 'react-icons/all';
+import {FiFacebook, AiOutlineInstagram, IoLogoYoutube} from 'react-icons/all';
 import { Input,Stack } from '@chakra-ui/react'
 import './footercss.css'
 import { Link } from 'react-router-dom';
@@ -30,7 +30,7 @@ const Footer = () => {
                 <div className="footerGetInTouch">
                     <h1>Get in touch</h1>
                     <ul>
-                        <p>Any questions? Let us know in store at BP 473 Complexe universitaire Al Qods, Oujda 60000 or call us on (+212) 65964665</p>
+                        <p>Any questions? Let us know in store at BBD NBH, Lucknow 226024 or call us on +91 7317000000</p>
                         <li className="footerIcons">
                             <FiFacebook size="25" />
                         </li>
@@ -59,15 +59,15 @@ const Footer = () => {
 
                 <div className="creditsIcons">
                     <ul>
-                        <li><img src="https://i.imgur.com/AHCoUZO.png" className="img1"/></li>
-                        <li><img src="https://i.imgur.com/JZRipBg.png" className="img2" /></li>
-                        <li><img src="https://i.imgur.com/l8OAGyo.png" className="img3" /></li>
-                        <li><img src="https://i.imgur.com/IDHC2iv.png" className="img4" /></li>
+                        <li><img src="https://i.imgur.com/AHCoUZO.png" className="img1" alt='m1'/></li>
+                        <li><img src="https://i.imgur.com/JZRipBg.png" className="img2" alt='m1' /></li>
+                        <li><img src="https://i.imgur.com/l8OAGyo.png" className="img3"  alt='m1'/></li>
+                        <li><img src="https://i.imgur.com/IDHC2iv.png" className="img4" alt='m1' /></li>
                     </ul>
                     
                 </div>
                 
-                <div className="paragraphFooter"><p>Copyright ©2021 All rights reserved | This template is made with ♡ by Developers of ESTO</p>
+                <div className="paragraphFooter"><p>Copyright ©2022 All rights reserved | This template is made with ♡ by Developers of EASTERN</p>
                 <Link to = '' >Abdessamad bourhjoul</Link>
                 <Link to = ''  >Soufian zaam</Link>
                 <Link to = ''  >Souhail ouabou</Link>
